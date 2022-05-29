@@ -1,0 +1,332 @@
+﻿++Solution 'MacanudoLanches' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MacanudoLanches.sln
+++MacanudoLanches
+i:{00000000-0000-0000-0000-000000000000}:MacanudoLanches
+++Connected Services 
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>947
+++Dependencies
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>946
+++Properties
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\properties\
+++wwwroot
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\
+++Components
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\components\
+++CarrinhoCompraResumo.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\components\carrinhocompraresumo.cs
+++Context
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\context\
+++Controllers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\controllers\
+++Migrations
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\
+++Models
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\models\
+++Repositories
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\repositories\
+++ViewModel
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\viewmodel\
+++Views
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\
+++CarrinhoCompra
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\carrinhocompra\
+++Index.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\carrinhocompra\index.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\home\index.cshtml
+++Home
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\home\
+++Lanche
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\lanche\
+++Shared
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\
+++CarrinhoCompraResumo
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\carrinhocompraresumo\
+++Default.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\carrinhocompraresumo\default.cshtml
+++_Carousel.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\_carousel.cshtml
+++_LanchesResumo.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\_lanchesresumo.cshtml
+++_Layout.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\_viewstart.cshtml
+++appsettings.json
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\appsettings.json
+++Program.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\program.cs
+++Startup.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\startup.cs
+++No service dependencies discovered
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>948
+++Analyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:analyzers
+++Frameworks
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:frameworks
+++Packages
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:packages
+++launchSettings.json
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\properties\launchsettings.json
+++css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\css\
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\
+++Images
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\images\
+++js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\js\
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\
+++favicon.ico
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\favicon.ico
+++AppDbContext.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\context\appdbcontext.cs
+++CarrinhoCompraController.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\controllers\carrinhocompracontroller.cs
+++HomeController.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\controllers\homecontroller.cs
+++LancheController.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\controllers\lanchecontroller.cs
+++20220519143102_StartMigration.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\20220519143102_startmigration.cs
+++20220520010732_PopularCategorias.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\20220520010732_popularcategorias.cs
+++20220520012209_PopularLanches.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\20220520012209_popularlanches.cs
+++20220525004813_CarrinhoCompraItem.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\20220525004813_carrinhocompraitem.cs
+++AppDbContextModelSnapshot.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\appdbcontextmodelsnapshot.cs
+++CarrinhoCompra.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\models\carrinhocompra.cs
+++CarrinhoCompraItem.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\models\carrinhocompraitem.cs
+++Category.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\models\category.cs
+++ErrorViewModel.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\models\errorviewmodel.cs
+++Lanche.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\models\lanche.cs
+++Interfaces
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\repositories\interfaces\
+++CategoryRepository.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\repositories\categoryrepository.cs
+++LancheRepository.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\repositories\lancherepository.cs
+++CarrinhoCompraViewModel.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\viewmodel\carrinhocompraviewmodel.cs
+++HomeViewModel.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\viewmodel\homeviewmodel.cs
+++LancheListViewModel.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\viewmodel\lanchelistviewmodel.cs
+++List.cshtml
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\lanche\list.cshtml
+++_Layout.cshtml.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\appsettings.development.json
+++MessagePackAnalyzer
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>970
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>969
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>973
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.5)
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>974
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc (6.0.5)
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>972
+++Swashbuckle.AspNetCore (6.3.0)
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:>971
+++site.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\css\site.css
+++Bacon-Cheese-Burger-PNG-Pic.png
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\images\bacon-cheese-burger-png-pic.png
+++Classic-Cheese-Burger-PNG-Image.png
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\images\classic-cheese-burger-png-image.png
+++Double-Cheese-Burger-PNG-Clipart.png
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\images\double-cheese-burger-png-clipart.png
+++Full-Cart-icon.ICO
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\images\full-cart-icon.ico
+++Full-Cart-icon.png
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\images\full-cart-icon.png
+++remove.png
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\images\remove.png
+++site.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\js\site.js
+++bootstrap
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\
+++jquery
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery\
+++jquery-validation
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation-unobtrusive\
+++20220519143102_StartMigration.Designer.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\20220519143102_startmigration.designer.cs
+++20220520010732_PopularCategorias.Designer.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\20220520010732_popularcategorias.designer.cs
+++20220520012209_PopularLanches.Designer.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\20220520012209_popularlanches.designer.cs
+++20220525004813_CarrinhoCompraItem.Designer.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\migrations\20220525004813_carrinhocompraitem.designer.cs
+++ICategoryRepository.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\repositories\interfaces\icategoryrepository.cs
+++ILancheRepository.cs
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\repositories\interfaces\ilancherepository.cs
+++dist
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery\dist\
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery\license.txt
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{b5a092ad-112a-457e-8a3c-1d594471fec4}:c:\users\tiago\source\mvc projects\macanudolanches\macanudolanches\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
