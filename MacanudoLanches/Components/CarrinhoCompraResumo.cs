@@ -20,6 +20,8 @@ namespace MacanudoLanches.Components
             var itens = new List<CarrinhoCompraItem>()
             {
                 new CarrinhoCompraItem(),
+                new CarrinhoCompraItem(),
+                new CarrinhoCompraItem(),
                 new CarrinhoCompraItem()
             };
             _carrinhoCompra.CarrinhoCompraItems = itens;

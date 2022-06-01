@@ -14,5 +14,7 @@ namespace MacanudoLanches.Context
         public DbSet<Category> categories { get; set; }
         public DbSet<Lanche> Lanches { get; set; }
         public DbSet<CarrinhoCompraItem> CarrinhoCompraItens { get; set; }
+        public DbSet<Pedido> Pedido { get; set; }
+        public DbSet<PedidoDetalhe> PedidoDetalhe { get; set; }
     }
 }

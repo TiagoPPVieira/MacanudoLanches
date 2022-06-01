@@ -29,7 +29,7 @@ namespace MacanudoLanches.Controllers
             return View(carrinhoCompraVM);
         }
 
-        public RedirectToActionResult AdicionarItemNoCarrinhoCompra(int lancheId)
+        public IActionResult AdicionarItemNoCarrinhoCompra(int lancheId)
         {
             var lancheSelecionado = _lancheRepository.Lanches.FirstOrDefault(
                 p => p.Id == lancheId);
