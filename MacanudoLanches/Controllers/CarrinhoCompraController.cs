@@ -1,6 +1,7 @@
 ﻿using MacanudoLanches.Models;
 using MacanudoLanches.Repositories.Interfaces;
 using MacanudoLanches.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MacanudoLanches.Controllers
@@ -29,6 +30,7 @@ namespace MacanudoLanches.Controllers
             return View(carrinhoCompraVM);
         }
 
+        [Authorize]
         public IActionResult AdicionarItemNoCarrinhoCompra(int lancheId)
         {
             var lancheSelecionado = _lancheRepository.Lanches.FirstOrDefault(
@@ -40,6 +42,7 @@ namespace MacanudoLanches.Controllers
             return RedirectToAction("Index");
         }
 
+        [Authorize]
         public ActionResult RemoverItemDoCarrinhoCompra(int lancheId)
         {
             var lancheSelecionado = _lancheRepository.Lanches.FirstOrDefault(

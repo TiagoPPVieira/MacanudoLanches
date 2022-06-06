@@ -1,8 +1,8 @@
 ﻿@model CarrinhoCompraViewModel
 
 <div class="Container">
-    <div class="row-cols-lg-1">
-        <img src="~/Images/Full-Cart-icon.png" alt="sdfsdfsd" height=36 width=36 />
+    <div class="row-cols-auto">
+        <img src="~/Images/Full-Cart-icon.png" alt="Carrinho" height=36 width=36 />
     </div>
 
     <div>
@@ -33,7 +33,7 @@
 
                     <td class="text-center">
                         <a asp-controller="CarrinhoCompra" asp-action="RemoverItemDoCarrinhoCompra"
-                            asp-route-lancheId="@item.Lanche.Id"> <img src="~/Images/delete.png">
+                            asp-route-lancheId="@item.Lanche.Id"> <img src="~/Images/delete.png" height="20" width="20">
                         </a>
                     </td>
                 </tr>

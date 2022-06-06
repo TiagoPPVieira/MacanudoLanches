@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - MacanudoLanches</title>
+    <title>@ViewData["Title"] - Macanudo Lanches</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MacanudoLanches.styles.css" asp-append-version="true" />
@@ -38,6 +38,12 @@
                             </form>
                         </li>
                     </ul>
+                    @await Html.PartialAsync("_LoginPartial")
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a class="nav-link text-light" asp-area="Admin" 
+                            asp-controller="Admin" asp-action="Index">Admin</a>
+                    }
                 </div>
             </div>
         </nav>

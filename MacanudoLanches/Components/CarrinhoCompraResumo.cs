@@ -15,15 +15,8 @@ namespace MacanudoLanches.Components
 
         public IViewComponentResult Invoke()
         {
-            //var itens = _carrinhoCompra.GetCarrinhoCompraItem();
+            var itens = _carrinhoCompra.GetCarrinhoCompraItem();
 
-            var itens = new List<CarrinhoCompraItem>()
-            {
-                new CarrinhoCompraItem(),
-                new CarrinhoCompraItem(),
-                new CarrinhoCompraItem(),
-                new CarrinhoCompraItem()
-            };
             _carrinhoCompra.CarrinhoCompraItems = itens;
 
             var carrinhoCompraVM = new CarrinhoCompraViewModel
