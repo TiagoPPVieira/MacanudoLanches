@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Macanudo Lanches</title>
+    <title>@ViewData["Title"] - Admin: Macanudo Lanches</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MacanudoLanches.styles.css" asp-append-version="true" />
@@ -32,6 +32,12 @@
                         </li>
                         <li class="nav-item"> 
                             <a class="nav-link text-light" asp-area="Admin" asp-controller="AdminPedidos" asp-action="Index">Pedidos</a>
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link text-light" asp-area="Admin" asp-controller="AdminRelatorioVendas" asp-action="Index">Relatório vendas</a>
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link text-light" asp-area="Admin" asp-controller="AdminImagens" asp-action="Index">Gerenciar imagens</a>
                         </li>
                     </ul>
                     @await Html.PartialAsync("_LoginPartial")

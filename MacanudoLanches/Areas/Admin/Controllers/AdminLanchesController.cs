@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using MacanudoLanches.Context;
 using MacanudoLanches.Models;
 using Microsoft.AspNetCore.Authorization;
+using ReflectionIT.Mvc.Paging;
 
 namespace MacanudoLanches.Areas.Admin.Controllers
 {
@@ -23,10 +24,23 @@ namespace MacanudoLanches.Areas.Admin.Controllers
         }
 
         // GET: Admin/AdminLanches
-        public async Task<IActionResult> Index()
+        /*public async Task<IActionResult> Index()
         {
             var appDbContext = _context.Lanches.Include(l => l.Category);
             return View(await appDbContext.ToListAsync());
+        }*/
+
+        public async Task<IActionResult> Index(string filter, int pageindex = 1, string sort = "Name")
+        {
+            var resultado = _context.Lanches.Include(l=>
+                l.Category).AsQueryable();
+            if (!string.IsNullOrWhiteSpace(filter))
+            {
+                resultado = resultado.Where(p => p.Name.Contains(filter));
+            }
+            var model = await PagingList.CreateAsync(resultado, 5, pageindex, sort, "Name");
+            model.RouteValue = new RouteValueDictionary { { "filter", filter } };
+            return View(model);
         }
 
         // GET: Admin/AdminLanches/Details/5
@@ -158,14 +172,14 @@ namespace MacanudoLanches.Areas.Admin.Controllers
             {
                 _context.Lanches.Remove(lanche);
             }
-            
+
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool LancheExists(int id)
         {
-          return _context.Lanches.Any(e => e.Id == id);
+            return _context.Lanches.Any(e => e.Id == id);
         }
     }
 }

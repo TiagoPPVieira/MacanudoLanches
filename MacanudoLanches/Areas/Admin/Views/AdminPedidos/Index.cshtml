@@ -14,7 +14,7 @@
         <span class="glyphicon glyphicon-search" aria-hidden="true">Procurar</span>
     </button>
 </form>
-
+<br />
 Total de Pedidos : @Model.TotalRecordCount
 <div>
     <vc:pager paging-list="@Model"></vc:pager>
@@ -98,9 +98,10 @@ Total de Pedidos : @Model.TotalRecordCount
                 @Html.DisplayFor(modelItem => item.PedidoEntregueEm)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.PedidoId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.PedidoId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.PedidoId">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.PedidoId">Editar</a> <br>
+                <a asp-action="Details" asp-route-id="@item.PedidoId">Detalhes</a> <br>
+                <a asp-action="Delete" asp-route-id="@item.PedidoId">Deletar</a> <br>
+                <a asp-action="PedidoLanches" asp-route-id="@item.PedidoId">Ver Itens</a>
             </td>
         </tr>
 }

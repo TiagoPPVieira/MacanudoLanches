@@ -1,4 +1,5 @@
-﻿using MacanudoLanches.Context;
+﻿using MacanudoLanches.Areas.Admin.Services;
+using MacanudoLanches.Context;
 using MacanudoLanches.Models;
 using MacanudoLanches.Repositories;
 using MacanudoLanches.Repositories.Interfaces;
@@ -36,12 +37,14 @@ public class Startup
             options.Password.RequiredLength = 3;
             options.Password.RequiredUniqueChars = 1;
         });
-
+        services.Configure<ConfigurationImagens>(Configuration
+            .GetSection("ConfigurationPastaImagens"));
 
         services.AddTransient<ILancheRepository, LancheRepository>();
         services.AddTransient<ICategoryRepository, CategoryRepository>();
         services.AddTransient<IPedidoRepository, PedidoRepository>();
         services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+        services.AddScoped<RelatorioVendasService>();
 
         services.AddAuthorization(options =>
         {
