@@ -31,7 +31,7 @@ namespace MacanudoLanches.Areas.Admin.Controllers
             }
             if (files.Count > 10)
             {
-                ViewData["Erro"] = "Erro: Quantidade de arquivos excedeu o limite";
+                ViewData["Erro"] = "Erro: Qauntidade de arquivos excedeu o limite";
                 return View(ViewData);
             }
             long size = files.Sum(f => f.Length);
@@ -80,7 +80,7 @@ namespace MacanudoLanches.Areas.Admin.Controllers
                 System.IO.File.Delete(_imagemDeleta);
                 ViewData["Deletado"] = $"Arquivo(s) {_imagemDeleta} deletado com sucesso";
             }
-            return View("index");
+            return View("Index");
         }
     }
 }

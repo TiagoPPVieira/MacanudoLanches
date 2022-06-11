@@ -30,7 +30,3 @@
         }
     </div>
 </div>
-<div class="form-group">
-    <a class="btn btn-outline-info" asp-controller="AdminImagens" 
-    	asp-action="GetImagens">Exibir Imagens</a>
-</div>

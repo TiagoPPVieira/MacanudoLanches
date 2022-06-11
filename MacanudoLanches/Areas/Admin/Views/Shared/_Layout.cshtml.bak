@@ -26,7 +26,7 @@
                     <a class="nav-link text-light" asp-area="Admin" asp-controller="AdminImagens" asp-action="Index">Gerenciar imagens</a>
                     */---Graficos---/*
                     <div class="dropdown show">
-                        <button class="btn btn-secondary dropdown-toggle" href="#Dd" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <button class="btn btn-secondary dropdown-toggle" href="#Dd" type="button" id="dropdownMenuButton1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Gráficos de vendas
                         </button>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
