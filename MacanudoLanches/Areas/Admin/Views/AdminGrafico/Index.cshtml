@@ -37,6 +37,12 @@
         var data = google.visualization.arrayToDataTable(dataArray);
         var options = {
             title: 'Lanches - Vendas nos últimos 360 dias',
+
+            animation: {
+                duration: 3000,
+                easing: 'out'
+            },
+
             chartArea: {
                 width: '70%'
             },
