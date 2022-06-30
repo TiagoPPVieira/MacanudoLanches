@@ -35,4 +35,7 @@
     <Folder Include="wwwroot\Images\Produtos\" />
   </ItemGroup>
 
+	<ItemGroup>
+		<None Update="app.db" CopyToOutputDirectory="PreserveNewest"/>
+	</ItemGroup>
 </Project>
